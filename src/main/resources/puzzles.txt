@@ -1,0 +1,35 @@
+intro:Logic puzzles come in all shapes and sizes, but the kind of puzzles we offer here are most commonly referred to as "logic grid" puzzles. In each puzzle you are given a series of categories, and an equal number of options within each category. Each option is used once and only once. Your goal is to figure out which options are linked together based on a series of given clues. Each puzzle has only one unique solution, and each can be solved using simple logical processes (i.e. educated guesses are not required).
+intro:A custom-labeled grid is provided for every puzzle, like the one you see to the right. The grid allows you to cross-reference every possible option in every category. You can eliminate pairs you know aren't true with an X, and pencil in pairs you know are related with an O. If you know, for example, that Lauren wasn't born in 1961, you can add an X in the box where the Lauren column and 1961 row meet. Similarly, if you know that Bryant was born in 1971, you can add an O in the appropriate box. Furthermore, since every option can only be used once in any given puzzle, you can eliminate the four other options for Bryant in that category (1937, 1946, 1961, 1975) and the four other options for 1971 (Anahi, Jayden, Lauren and Nikolas).
+intro:Continue doing this for every clue you're given. Eventually you will have filled in enough X's and O's on the board that you will then be able to use simple logic to deduce the solution to the puzzle. For example, if A = B, and B = C, then A must equal C. Similarly, if A = B, and B =/= D, then A must not equal D.
+
+
+category number:3
+item number: 4
+category:points
+items:181 points,184 points,187 points,190 points
+category:names
+items:Bessie,Evelyn,Ollie,Yvette
+category:orders
+items:1st,3rd,4th,7th
+
+clue:1. Bessie scored 3 points lower than the dancer who performed seventh.
+clue:2. Yvette performed seventh.
+clue:3. The dancer who performed fourth scored 3 points higher than Evelyn.
+clue:4. The dancer who performed first scored somewhat higher than Evelyn.
+clue:5. Bessie scored 3 points higher than Evelyn.
+
+answer:181 points,Evelyn
+answer:184 points,Bessie
+answer:187 points,Yvette
+answer:190 points,Ollie
+answer:190 points,1st
+answer:181 points,3rd
+answer:184 points,4th
+answer:187 points,7th
+answer:1st,Ollie
+answer:3rd,Evelyn
+answer:4th,Bessie
+answer:7th,Yvette
+
+backstory:The state fair dancing competition winners have just been announced! Match each dancer to her chosen dance style and final score, and determine the order in which each performed.
+backstory:Remember, as with all grid-based logic puzzles, no option in any category will ever be used more than once. If you get stuck or run into problems, try the "Clear Errors" button to remove any mistakes that might be present on the grid, or the "Hint" button to see the next logical step in the puzzle.
